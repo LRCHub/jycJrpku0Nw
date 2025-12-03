@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "sub/objective",
+  "base_artist": "ぼくのりりっくのぼうよみ",
+  "createdAt": "2025-12-03T14:19:00.724656Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sub Zero",
+      "artist": "Young Thug feat. Quavo",
+      "has_synced": true,
+      "path": "select/01_Sub_Zero_Young_Thug_feat._Quavo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sub Zero",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/02_Sub_Zero_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1000 Miles (feat. Sub Focus)",
+      "artist": "Machinedrum",
+      "has_synced": false,
+      "path": "select/03_1000_Miles_(feat._Sub_Focus)_Machinedrum.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sub Crazy",
+      "artist": "Method Man",
+      "has_synced": true,
+      "path": "select/04_Sub_Crazy_Method_Man.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sub-culture",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/05_Sub-culture_New_Order.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sub-culture",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/06_Sub-culture_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Aliens (Sub Focus remix)",
+      "artist": "Dr. Octagon",
+      "has_synced": false,
+      "path": "select/07_Aliens_(Sub_Focus_remix)_Dr._Octagon.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Got U (A2B Sub Zero Edit) (High Contrast Remix)",
+      "artist": "Duke Dumont feat. Jax Jones",
+      "has_synced": false,
+      "path": "select/08_I_Got_U_(A2B_Sub_Zero_Edit)_(High_Contrast_Remix)_Duke_Dumont_feat._Jax_Jones.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Twerk - Sub Focus Remix",
+      "artist": "Basement Jaxx",
+      "has_synced": false,
+      "path": "select/09_Twerk_-_Sub_Focus_Remix_Basement_Jaxx.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Twerk (Sub Focus Remix)",
+      "artist": "Basement Jaxx",
+      "has_synced": false,
+      "path": "select/10_Twerk_(Sub_Focus_Remix)_Basement_Jaxx.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Am the Sub-Librarian",
+      "artist": "Piano Magic",
+      "has_synced": false,
+      "path": "select/11_I_Am_the_Sub-Librarian_Piano_Magic.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Am the Sub-Librarian (Remastered Edit)",
+      "artist": "Piano Magic",
+      "has_synced": false,
+      "path": "select/12_I_Am_the_Sub-Librarian_(Remastered_Edit)_Piano_Magic.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Flashing Lights (feat. Sub Focus & Takura)",
+      "artist": "Chase & Status",
+      "has_synced": true,
+      "path": "select/13_Flashing_Lights_(feat._Sub_Focus_&_Takura)_Chase_&_Status.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sub-domestic",
+      "artist": "Constantines",
+      "has_synced": false,
+      "path": "select/14_Sub-domestic_Constantines.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tristessa (Sub Pop Single) [2011 Mix]",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": false,
+      "path": "select/15_Tristessa_(Sub_Pop_Single)_[2011_Mix]_The_Smashing_Pumpkins.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sub/objective",
+      "artist": "ぼくのりりっくのぼうよみ",
+      "has_synced": false,
+      "path": "select/pl_01_sub_objective_ぼくのりりっくのぼうよみ.txt"
+    }
+  ]
+}
